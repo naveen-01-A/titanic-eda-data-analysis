@@ -151,4 +151,4 @@ Aspiring Data Analyst
 
 Skills: Python | SQL | Excel | Pandas | NumPy | Statistics | Power BI
 
-GitHub: https://github.com/navin420-xy
+GitHub: https://github.com/naveen-01-A
